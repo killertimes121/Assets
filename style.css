@@ -1,0 +1,111 @@
+body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url(https://www.huntshowdown.com/files/news/Blog_post_huntshowdown.com_1920_x_108052.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    }
+
+.navbar {
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.navbar a {
+  display:inline-block;
+  color:White;
+  width:200px;
+  height:40px;
+  line-height:40px;
+  vertical-align:middle;
+  text-decoration:none;
+}
+
+
+.navbar a:hover {
+  text-decoration:underline;
+  font-weight:bold;
+}
+
+.banner {
+  width:100%;
+  height:150px;
+  line-height:150px;
+  text-align:center;
+  font-size:60px;
+  color:white;
+}
+
+.banner2 {
+  width:100%;
+  height:150px;
+  line-height:150px;
+  text-align:center;
+  font-size:60px;
+  color:black;
+}
+
+table, th, td {
+  border: 1px solid white;
+  text-align: center;
+  background:black;
+  color:white;
+}
+
+.video {
+  text-align:center;
+}
+
+
+.pics {
+  width:100%;
+  text-align:right;
+  margin-bottom:30px;
+}
+
+.pics figure {
+  display:inline-block;
+  width:300px;
+  height:200px;
+  color:black;
+  text-align:center;
+  fo.pe:14px;
+  margin:5px 5px 200px 5px;
+  border:3px solid black;
+  border-radius:10px;
+}
+
+.centerpiece{
+  Text-align:center;
+}
+
+.pics2 {
+  width:100%;
+  text-align:left;
+  margin-bottom:30px;
+}
+
+.pics2 figure {
+  Display:inline-block;
+  width:300px;
+  height:200px;
+  color:black;
+  text-align:center;
+  font-size:14px;
+  margin:200px 5px 5px 5px;
+  border:3px solid black;
+  border-radius:10px;
+}
+
+
+.footer {
+  width:100%;
+  height:200px;
+  line-height:200px;
+  text-align:center;
+  color:white;
+}
